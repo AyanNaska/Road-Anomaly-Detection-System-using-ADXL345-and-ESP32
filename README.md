@@ -1,4 +1,6 @@
 # Road-Anomaly-Detection-System-using-ADXL345-and-ESP32
+![Screenshot_20230727-232427](https://github.com/AyanNaska/Road-Anomaly-Detection-System-using-ADXL345-and-ESP32/assets/113054786/ad54709e-b98a-4343-a6aa-540c2076d782)
+
 ## Overview
 
 This repository contains the Arduino code and documentation for a Road Anomaly Detection System. The system is designed to detect jerks and unusual movements using an ADXL345 accelerometer sensor interfaced with an ESP32 microcontroller. When a jerk is detected, the system sends the data to ThingSpeak, an Internet of Things (IoT) platform, for further analysis and visualization.
